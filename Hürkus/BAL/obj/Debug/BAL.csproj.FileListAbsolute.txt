@@ -1,0 +1,82 @@
+C:\Users\Omar\source\repos\Hürkus\BAL\bin\Debug\BAL.dll.config
+C:\Users\Omar\source\repos\Hürkus\BAL\bin\Debug\BAL.dll
+C:\Users\Omar\source\repos\Hürkus\BAL\bin\Debug\BAL.pdb
+C:\Users\Omar\source\repos\Hürkus\BAL\bin\Debug\BEL.dll
+C:\Users\Omar\source\repos\Hürkus\BAL\bin\Debug\DAL.dll
+C:\Users\Omar\source\repos\Hürkus\BAL\bin\Debug\EntityFramework.dll
+C:\Users\Omar\source\repos\Hürkus\BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Omar\source\repos\Hürkus\BAL\bin\Debug\BEL.pdb
+C:\Users\Omar\source\repos\Hürkus\BAL\bin\Debug\BEL.dll.config
+C:\Users\Omar\source\repos\Hürkus\BAL\bin\Debug\DAL.pdb
+C:\Users\Omar\source\repos\Hürkus\BAL\bin\Debug\DAL.dll.config
+C:\Users\Omar\source\repos\Hürkus\BAL\bin\Debug\EntityFramework.xml
+C:\Users\Omar\source\repos\Hürkus\BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Omar\source\repos\Hürkus\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Omar\source\repos\Hürkus\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Hürkus\BAL\obj\Debug\BAL.dll
+C:\Users\Omar\source\repos\Hürkus\BAL\obj\Debug\BAL.pdb
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\bin\Debug\BAL.dll.config
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\bin\Debug\BAL.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\bin\Debug\BAL.pdb
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\bin\Debug\BEL.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\bin\Debug\DAL.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\bin\Debug\EntityFramework.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\bin\Debug\BEL.pdb
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\bin\Debug\DAL.pdb
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\bin\Debug\EntityFramework.xml
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\obj\Debug\BAL.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BAL\obj\Debug\BAL.pdb
+C:\Hürkus\BAL\bin\Debug\BAL.dll.config
+C:\Hürkus\BAL\bin\Debug\BAL.dll
+C:\Hürkus\BAL\bin\Debug\BAL.pdb
+C:\Hürkus\BAL\bin\Debug\BEL.dll
+C:\Hürkus\BAL\bin\Debug\DAL.dll
+C:\Hürkus\BAL\bin\Debug\EntityFramework.dll
+C:\Hürkus\BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Hürkus\BAL\bin\Debug\BEL.pdb
+C:\Hürkus\BAL\bin\Debug\BEL.dll.config
+C:\Hürkus\BAL\bin\Debug\DAL.pdb
+C:\Hürkus\BAL\bin\Debug\DAL.dll.config
+C:\Hürkus\BAL\bin\Debug\EntityFramework.xml
+C:\Hürkus\BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Hürkus\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Hürkus\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Hürkus\BAL\obj\Debug\BAL.dll
+C:\Hürkus\BAL\obj\Debug\BAL.pdb
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\BAL.dll.config
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\BAL.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\BAL.pdb
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\BEL.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\DAL.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\EntityFramework.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\BEL.pdb
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\BEL.dll.config
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\DAL.pdb
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\DAL.dll.config
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\EntityFramework.xml
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\obj\Debug\BAL.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BAL\obj\Debug\BAL.pdb
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\BAL.dll.config
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\BAL.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\BAL.pdb
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\BEL.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\DAL.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\EntityFramework.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\BEL.pdb
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\BEL.dll.config
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\DAL.pdb
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\DAL.dll.config
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\EntityFramework.xml
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\obj\Debug\BAL.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BAL\obj\Debug\BAL.pdb

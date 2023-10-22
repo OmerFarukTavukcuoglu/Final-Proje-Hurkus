@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="havayoluBilgi.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="FiloBilgileri">
+          <Key>
+            <PropertyRef Name="UçakID" />
+          </Key>
+          <Property Name="UçakID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="UçakModeli" Type="nvarchar" MaxLength="30" />
+          <Property Name="UçakAdedi" Type="int" />
+          <Property Name="YolcuKapasitesi" Type="int" />
+          <Property Name="GövdeUzunluğu" Type="nvarchar" MaxLength="50" />
+          <Property Name="YerdenYüksekliği" Type="nvarchar" MaxLength="30" />
+          <Property Name="KanatAçıklığı" Type="nvarchar" MaxLength="30" />
+          <Property Name="AzamiKalkışAğırlığı" Type="nvarchar" MaxLength="30" />
+          <Property Name="AzamiKargoKapasitesi" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="musteriler">
+          <Key>
+            <PropertyRef Name="MüşteriID" />
+          </Key>
+          <Property Name="MüşteriID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="MüşteriAd" Type="nvarchar" MaxLength="30" />
+          <Property Name="MüşteriSoyad" Type="nvarchar" MaxLength="30" />
+          <Property Name="MüşteriTC" Type="bigint" />
+          <Property Name="MüşteriTel" Type="bigint" />
+          <Property Name="MüşteriAdres" Type="nvarchar" MaxLength="75" />
+          <Property Name="MüşteriMail" Type="nvarchar" MaxLength="35" />
+          <Property Name="PersonelID" Type="int" />
+        </EntityType>
+        <EntityType Name="MusteriUcakSeyehatBilgileri">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="MusteriID" Type="int" />
+          <Property Name="UcakID" Type="int" />
+          <Property Name="SeyahatID" Type="int" />
+          <Property Name="GidişTarih" Type="date" />
+          <Property Name="DönüşTarih" Type="date" />
+        </EntityType>
+        <EntityType Name="Personeller">
+          <Key>
+            <PropertyRef Name="PersonelID" />
+          </Key>
+          <Property Name="PersonelID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="PersonelAd" Type="nvarchar" MaxLength="30" />
+          <Property Name="PersonelSoyad" Type="nvarchar" MaxLength="30" />
+          <Property Name="PersonelTC" Type="bigint" />
+          <Property Name="PersonelTel" Type="bigint" />
+          <Property Name="PersonelMail" Type="nvarchar" MaxLength="50" />
+          <Property Name="PersonelSifre" Type="int" />
+        </EntityType>
+        <EntityType Name="SeyehatBilgileri">
+          <Key>
+            <PropertyRef Name="SeyehatID" />
+          </Key>
+          <Property Name="SeyehatID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="MusteriID" Type="int" />
+          <Property Name="MüşteriSoyad" Type="nvarchar" MaxLength="30" />
+          <Property Name="UçakNo" Type="int" />
+          <Property Name="BiletKodu" Type="nvarchar" MaxLength="30" />
+          <Property Name="KalkışYeri" Type="nvarchar" MaxLength="50" />
+          <Property Name="VarışYeri" Type="nvarchar" MaxLength="50" />
+          <Property Name="KalkışSaati" Type="time" Precision="7" />
+          <Property Name="VarışSaati" Type="time" Precision="7" />
+          <Property Name="KişiSayısı" Type="int" />
+          <Property Name="GidişTarihi" Type="datetime" />
+          <Property Name="DönüşTarihi" Type="datetime" />
+          <Property Name="Sınıf" Type="nvarchar" MaxLength="30" />
+          <Property Name="KoltukNo" Type="int" />
+          <Property Name="Fiyat" Type="float" />
+        </EntityType>
+        <EntityContainer Name="havayoluBilgiStoreContainer">
+          <EntitySet Name="FiloBilgileri" EntityType="Self.FiloBilgileri" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="musteriler" EntityType="Self.musteriler" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="MusteriUcakSeyehatBilgileri" EntityType="Self.MusteriUcakSeyehatBilgileri" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Personeller" EntityType="Self.Personeller" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="SeyehatBilgileri" EntityType="Self.SeyehatBilgileri" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="havayoluBilgi" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="FiloBilgileri">
+          <Key>
+            <PropertyRef Name="UçakID" />
+          </Key>
+          <Property Name="UçakID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UçakModeli" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="UçakAdedi" Type="Int32" />
+          <Property Name="YolcuKapasitesi" Type="Int32" />
+          <Property Name="GövdeUzunluğu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="YerdenYüksekliği" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="KanatAçıklığı" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="AzamiKalkışAğırlığı" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="AzamiKargoKapasitesi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="musteriler">
+          <Key>
+            <PropertyRef Name="MüşteriID" />
+          </Key>
+          <Property Name="MüşteriID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MüşteriAd" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="MüşteriSoyad" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="MüşteriTC" Type="Int64" />
+          <Property Name="MüşteriTel" Type="Int64" />
+          <Property Name="MüşteriAdres" Type="String" MaxLength="75" FixedLength="false" Unicode="true" />
+          <Property Name="MüşteriMail" Type="String" MaxLength="35" FixedLength="false" Unicode="true" />
+          <Property Name="PersonelID" Type="Int32" />
+        </EntityType>
+        <EntityType Name="MusteriUcakSeyehatBilgileri">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MusteriID" Type="Int32" />
+          <Property Name="UcakID" Type="Int32" />
+          <Property Name="SeyahatID" Type="Int32" />
+          <Property Name="GidişTarih" Type="DateTime" Precision="0" />
+          <Property Name="DönüşTarih" Type="DateTime" Precision="0" />
+        </EntityType>
+        <EntityType Name="Personeller">
+          <Key>
+            <PropertyRef Name="PersonelID" />
+          </Key>
+          <Property Name="PersonelID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="PersonelAd" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="PersonelSoyad" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="PersonelTC" Type="Int64" />
+          <Property Name="PersonelTel" Type="Int64" />
+          <Property Name="PersonelMail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="PersonelSifre" Type="Int32" />
+        </EntityType>
+        <EntityType Name="SeyehatBilgileri">
+          <Key>
+            <PropertyRef Name="SeyehatID" />
+          </Key>
+          <Property Name="SeyehatID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MusteriID" Type="Int32" />
+          <Property Name="MüşteriSoyad" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="UçakNo" Type="Int32" />
+          <Property Name="BiletKodu" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="KalkışYeri" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="VarışYeri" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="KalkışSaati" Type="Time" Precision="7" />
+          <Property Name="VarışSaati" Type="Time" Precision="7" />
+          <Property Name="KişiSayısı" Type="Int32" />
+          <Property Name="GidişTarihi" Type="DateTime" Precision="3" />
+          <Property Name="DönüşTarihi" Type="DateTime" Precision="3" Nullable="true" />
+          <Property Name="Sınıf" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="KoltukNo" Type="Int32" />
+          <Property Name="Fiyat" Type="Double" />
+        </EntityType>
+        <EntityContainer Name="havayoluEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="FiloBilgileris" EntityType="Self.FiloBilgileri" />
+          <EntitySet Name="musterilers" EntityType="Self.musteriler" />
+          <EntitySet Name="MusteriUcakSeyehatBilgileris" EntityType="Self.MusteriUcakSeyehatBilgileri" />
+          <EntitySet Name="Personellers" EntityType="Self.Personeller" />
+          <EntitySet Name="SeyehatBilgileris" EntityType="Self.SeyehatBilgileri" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="havayoluBilgiStoreContainer" CdmEntityContainer="havayoluEntities">
+          <EntitySetMapping Name="FiloBilgileris">
+            <EntityTypeMapping TypeName="havayoluBilgi.FiloBilgileri">
+              <MappingFragment StoreEntitySet="FiloBilgileri">
+                <ScalarProperty Name="UçakID" ColumnName="UçakID" />
+                <ScalarProperty Name="UçakModeli" ColumnName="UçakModeli" />
+                <ScalarProperty Name="UçakAdedi" ColumnName="UçakAdedi" />
+                <ScalarProperty Name="YolcuKapasitesi" ColumnName="YolcuKapasitesi" />
+                <ScalarProperty Name="GövdeUzunluğu" ColumnName="GövdeUzunluğu" />
+                <ScalarProperty Name="YerdenYüksekliği" ColumnName="YerdenYüksekliği" />
+                <ScalarProperty Name="KanatAçıklığı" ColumnName="KanatAçıklığı" />
+                <ScalarProperty Name="AzamiKalkışAğırlığı" ColumnName="AzamiKalkışAğırlığı" />
+                <ScalarProperty Name="AzamiKargoKapasitesi" ColumnName="AzamiKargoKapasitesi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="musterilers">
+            <EntityTypeMapping TypeName="havayoluBilgi.musteriler">
+              <MappingFragment StoreEntitySet="musteriler">
+                <ScalarProperty Name="MüşteriID" ColumnName="MüşteriID" />
+                <ScalarProperty Name="MüşteriAd" ColumnName="MüşteriAd" />
+                <ScalarProperty Name="MüşteriSoyad" ColumnName="MüşteriSoyad" />
+                <ScalarProperty Name="MüşteriTC" ColumnName="MüşteriTC" />
+                <ScalarProperty Name="MüşteriTel" ColumnName="MüşteriTel" />
+                <ScalarProperty Name="MüşteriAdres" ColumnName="MüşteriAdres" />
+                <ScalarProperty Name="MüşteriMail" ColumnName="MüşteriMail" />
+                <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="MusteriUcakSeyehatBilgileris">
+            <EntityTypeMapping TypeName="havayoluBilgi.MusteriUcakSeyehatBilgileri">
+              <MappingFragment StoreEntitySet="MusteriUcakSeyehatBilgileri">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+                <ScalarProperty Name="UcakID" ColumnName="UcakID" />
+                <ScalarProperty Name="SeyahatID" ColumnName="SeyahatID" />
+                <ScalarProperty Name="GidişTarih" ColumnName="GidişTarih" />
+                <ScalarProperty Name="DönüşTarih" ColumnName="DönüşTarih" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Personellers">
+            <EntityTypeMapping TypeName="havayoluBilgi.Personeller">
+              <MappingFragment StoreEntitySet="Personeller">
+                <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+                <ScalarProperty Name="PersonelAd" ColumnName="PersonelAd" />
+                <ScalarProperty Name="PersonelSoyad" ColumnName="PersonelSoyad" />
+                <ScalarProperty Name="PersonelTC" ColumnName="PersonelTC" />
+                <ScalarProperty Name="PersonelTel" ColumnName="PersonelTel" />
+                <ScalarProperty Name="PersonelMail" ColumnName="PersonelMail" />
+                <ScalarProperty Name="PersonelSifre" ColumnName="PersonelSifre" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="SeyehatBilgileris">
+            <EntityTypeMapping TypeName="havayoluBilgi.SeyehatBilgileri">
+              <MappingFragment StoreEntitySet="SeyehatBilgileri">
+                <ScalarProperty Name="SeyehatID" ColumnName="SeyehatID" />
+                <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+                <ScalarProperty Name="MüşteriSoyad" ColumnName="MüşteriSoyad" />
+                <ScalarProperty Name="UçakNo" ColumnName="UçakNo" />
+                <ScalarProperty Name="BiletKodu" ColumnName="BiletKodu" />
+                <ScalarProperty Name="KalkışYeri" ColumnName="KalkışYeri" />
+                <ScalarProperty Name="VarışYeri" ColumnName="VarışYeri" />
+                <ScalarProperty Name="KalkışSaati" ColumnName="KalkışSaati" />
+                <ScalarProperty Name="VarışSaati" ColumnName="VarışSaati" />
+                <ScalarProperty Name="KişiSayısı" ColumnName="KişiSayısı" />
+                <ScalarProperty Name="GidişTarihi" ColumnName="GidişTarihi" />
+                <ScalarProperty Name="DönüşTarihi" ColumnName="DönüşTarihi" />
+                <ScalarProperty Name="Sınıf" ColumnName="Sınıf" />
+                <ScalarProperty Name="KoltukNo" ColumnName="KoltukNo" />
+                <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="havayoluBilgi.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="FiloBilgileri">
+    <Key>
+      <PropertyRef Name="UçakID" />
+    </Key>
+    <Property Name="UçakID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UçakModeli" Type="nvarchar" MaxLength="30" />
+    <Property Name="UçakAdedi" Type="int" />
+    <Property Name="YolcuKapasitesi" Type="int" />
+    <Property Name="GövdeUzunluğu" Type="nvarchar" MaxLength="50" />
+    <Property Name="YerdenYüksekliği" Type="nvarchar" MaxLength="30" />
+    <Property Name="KanatAçıklığı" Type="nvarchar" MaxLength="30" />
+    <Property Name="AzamiKalkışAğırlığı" Type="nvarchar" MaxLength="30" />
+    <Property Name="AzamiKargoKapasitesi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="musteriler">
+    <Key>
+      <PropertyRef Name="MüşteriID" />
+    </Key>
+    <Property Name="MüşteriID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MüşteriAd" Type="nvarchar" MaxLength="30" />
+    <Property Name="MüşteriSoyad" Type="nvarchar" MaxLength="30" />
+    <Property Name="MüşteriTC" Type="bigint" />
+    <Property Name="MüşteriTel" Type="bigint" />
+    <Property Name="MüşteriAdres" Type="nvarchar" MaxLength="75" />
+    <Property Name="MüşteriMail" Type="nvarchar" MaxLength="35" />
+    <Property Name="PersonelID" Type="int" />
+  </EntityType>
+  <EntityType Name="MusteriUcakSeyehatBilgileri">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MusteriID" Type="int" />
+    <Property Name="UcakID" Type="int" />
+    <Property Name="SeyahatID" Type="int" />
+    <Property Name="GidişTarih" Type="date" />
+    <Property Name="DönüşTarih" Type="date" />
+  </EntityType>
+  <EntityType Name="Personeller">
+    <Key>
+      <PropertyRef Name="PersonelID" />
+    </Key>
+    <Property Name="PersonelID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PersonelAd" Type="nvarchar" MaxLength="30" />
+    <Property Name="PersonelSoyad" Type="nvarchar" MaxLength="30" />
+    <Property Name="PersonelTC" Type="bigint" />
+    <Property Name="PersonelTel" Type="bigint" />
+    <Property Name="PersonelMail" Type="nvarchar" MaxLength="50" />
+    <Property Name="PersonelSifre" Type="int" />
+  </EntityType>
+  <EntityType Name="SeyehatBilgileri">
+    <Key>
+      <PropertyRef Name="SeyehatID" />
+    </Key>
+    <Property Name="SeyehatID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MusteriID" Type="int" />
+    <Property Name="MüşteriSoyad" Type="nvarchar" MaxLength="30" />
+    <Property Name="UçakNo" Type="int" />
+    <Property Name="BiletKodu" Type="nvarchar" MaxLength="30" />
+    <Property Name="KalkışYeri" Type="nvarchar" MaxLength="50" />
+    <Property Name="VarışYeri" Type="nvarchar" MaxLength="50" />
+    <Property Name="KalkışSaati" Type="time" Precision="7" />
+    <Property Name="VarışSaati" Type="time" Precision="7" />
+    <Property Name="KişiSayısı" Type="int" />
+    <Property Name="GidişTarihi" Type="datetime" />
+    <Property Name="DönüşTarihi" Type="datetime" />
+    <Property Name="Sınıf" Type="nvarchar" MaxLength="30" />
+    <Property Name="KoltukNo" Type="int" />
+    <Property Name="Fiyat" Type="float" />
+  </EntityType>
+  <EntityContainer Name="havayoluBilgiStoreContainer">
+    <EntitySet Name="FiloBilgileri" EntityType="Self.FiloBilgileri" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="musteriler" EntityType="Self.musteriler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MusteriUcakSeyehatBilgileri" EntityType="Self.MusteriUcakSeyehatBilgileri" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Personeller" EntityType="Self.Personeller" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SeyehatBilgileri" EntityType="Self.SeyehatBilgileri" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,345 @@
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\Hürkus.exe.config
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\Hürkus.exe
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\Hürkus.pdb
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\BAL.dll
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\BEL.dll
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\EntityFramework.dll
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\DAL.dll
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\BAL.pdb
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\BAL.dll.config
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\BEL.pdb
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\BEL.dll.config
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\EntityFramework.xml
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\DAL.pdb
+C:\Users\Omar\source\repos\Hürkus\Hürkus\bin\Debug\DAL.dll.config
+C:\Users\Omar\source\repos\Hürkus\Hürkus\obj\Debug\Hürkus.csprojResolveAssemblyReference.cache
+C:\Users\Omar\source\repos\Hürkus\Hürkus\obj\Debug\Hürkus.Bilet_Al_Form.resources
+C:\Users\Omar\source\repos\Hürkus\Hürkus\obj\Debug\Hürkus.Check_in_Form.resources
+C:\Users\Omar\source\repos\Hürkus\Hürkus\obj\Debug\Hürkus.Properties.Resources.resources
+C:\Users\Omar\source\repos\Hürkus\Hürkus\obj\Debug\Hürkus.Ucus_Durum_Form.resources
+C:\Users\Omar\source\repos\Hürkus\Hürkus\obj\Debug\Hürkus.Ödeme_Form.resources
+C:\Users\Omar\source\repos\Hürkus\Hürkus\obj\Debug\Hürkus.csproj.GenerateResource.Cache
+C:\Users\Omar\source\repos\Hürkus\Hürkus\obj\Debug\Hürkus.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Hürkus\Hürkus\obj\Debug\Hürkus.exe
+C:\Users\Omar\source\repos\Hürkus\Hürkus\obj\Debug\Hürkus.pdb
+C:\Users\Omar\source\repos\Hürkus\Hürkus\obj\Debug\Hürkus.Ödeme_AnaForm.resources
+C:\Users\Omar\source\repos\Hürkus\Hürkus\obj\Debug\Hürkus.YetkiliPersonelForm.resources
+C:\Users\Omar\source\repos\Hürkus\Hürkus\obj\Debug\Hürkus.PersonelGirisForm.resources
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\Hürkus.exe.config
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\Hürkus.exe
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\Hürkus.pdb
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\BAL.dll
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\BEL.dll
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\EntityFramework.dll
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\DAL.dll
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\BAL.pdb
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\BAL.dll.config
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\BEL.pdb
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\BEL.dll.config
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\EntityFramework.xml
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\DAL.pdb
+C:\Users\Omar\Desktop\Hürkus\Hürkus\bin\Debug\DAL.dll.config
+C:\Users\Omar\Desktop\Hürkus\Hürkus\obj\Debug\Hürkus.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\Hürkus\Hürkus\obj\Debug\Hürkus.Bilet_Al_Form.resources
+C:\Users\Omar\Desktop\Hürkus\Hürkus\obj\Debug\Hürkus.Check_in_Form.resources
+C:\Users\Omar\Desktop\Hürkus\Hürkus\obj\Debug\Hürkus.PersonelGirisForm.resources
+C:\Users\Omar\Desktop\Hürkus\Hürkus\obj\Debug\Hürkus.Properties.Resources.resources
+C:\Users\Omar\Desktop\Hürkus\Hürkus\obj\Debug\Hürkus.Ucus_Durum_Form.resources
+C:\Users\Omar\Desktop\Hürkus\Hürkus\obj\Debug\Hürkus.YetkiliPersonelForm.resources
+C:\Users\Omar\Desktop\Hürkus\Hürkus\obj\Debug\Hürkus.Ödeme_AnaForm.resources
+C:\Users\Omar\Desktop\Hürkus\Hürkus\obj\Debug\Hürkus.Ödeme_Form.resources
+C:\Users\Omar\Desktop\Hürkus\Hürkus\obj\Debug\Hürkus.csproj.GenerateResource.Cache
+C:\Users\Omar\Desktop\Hürkus\Hürkus\obj\Debug\Hürkus.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\Hürkus\Hürkus\obj\Debug\Hürkus.exe
+C:\Users\Omar\Desktop\Hürkus\Hürkus\obj\Debug\Hürkus.pdb
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\bin\Debug\Hürkus.exe.config
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.exe
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.pdb
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\bin\Debug\Hürkus.exe
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\bin\Debug\Hürkus.pdb
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\bin\Debug\BAL.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\bin\Debug\BEL.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\bin\Debug\EntityFramework.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\bin\Debug\DAL.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\bin\Debug\BAL.pdb
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\bin\Debug\BEL.pdb
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\bin\Debug\EntityFramework.xml
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\bin\Debug\DAL.pdb
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.csprojResolveAssemblyReference.cache
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.Bilet_Al_Form.resources
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.Check_in_Form.resources
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.PersonelGirisForm.resources
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.Properties.Resources.resources
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.Ucus_Durum_Form.resources
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.YetkiliPersonelForm.resources
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.Ödeme_AnaForm.resources
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.Ödeme_Form.resources
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.csproj.GenerateResource.Cache
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Yeni klasör\Hürkus\Hürkus\bin\Debug\Hürkus.exe.config
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.exe
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Yeni klasör\Hürkus\Hürkus\obj\Debug\Hürkus.pdb
+C:\Hürkus\Hürkus\bin\Debug\Hürkus.exe.config
+C:\Hürkus\Hürkus\bin\Debug\Hürkus.exe
+C:\Hürkus\Hürkus\bin\Debug\Hürkus.pdb
+C:\Hürkus\Hürkus\bin\Debug\BAL.dll
+C:\Hürkus\Hürkus\bin\Debug\BEL.dll
+C:\Hürkus\Hürkus\bin\Debug\EntityFramework.dll
+C:\Hürkus\Hürkus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Hürkus\Hürkus\bin\Debug\DAL.dll
+C:\Hürkus\Hürkus\bin\Debug\BAL.pdb
+C:\Hürkus\Hürkus\bin\Debug\BAL.dll.config
+C:\Hürkus\Hürkus\bin\Debug\BEL.pdb
+C:\Hürkus\Hürkus\bin\Debug\BEL.dll.config
+C:\Hürkus\Hürkus\bin\Debug\EntityFramework.xml
+C:\Hürkus\Hürkus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Hürkus\Hürkus\bin\Debug\DAL.pdb
+C:\Hürkus\Hürkus\bin\Debug\DAL.dll.config
+C:\Hürkus\Hürkus\obj\Debug\Hürkus.csprojResolveAssemblyReference.cache
+C:\Hürkus\Hürkus\obj\Debug\Hürkus.Bilet_Al_Form.resources
+C:\Hürkus\Hürkus\obj\Debug\Hürkus.Check_in_Form.resources
+C:\Hürkus\Hürkus\obj\Debug\Hürkus.PersonelGirisForm.resources
+C:\Hürkus\Hürkus\obj\Debug\Hürkus.Properties.Resources.resources
+C:\Hürkus\Hürkus\obj\Debug\Hürkus.Ucus_Durum_Form.resources
+C:\Hürkus\Hürkus\obj\Debug\Hürkus.YetkiliPersonelForm.resources
+C:\Hürkus\Hürkus\obj\Debug\Hürkus.Ödeme_AnaForm.resources
+C:\Hürkus\Hürkus\obj\Debug\Hürkus.Ödeme_Form.resources
+C:\Hürkus\Hürkus\obj\Debug\Hürkus.csproj.GenerateResource.Cache
+C:\Hürkus\Hürkus\obj\Debug\Hürkus.csproj.CoreCompileInputs.cache
+C:\Hürkus\Hürkus\obj\Debug\Hürkus.exe
+C:\Hürkus\Hürkus\obj\Debug\Hürkus.pdb
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.Bilet_Al_Form.resources
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.Check_in_Form.resources
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.PersonelGirisForm.resources
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.Properties.Resources.resources
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.Ucus_Durum_Form.resources
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.YetkiliPersonelForm.resources
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.Ödeme_AnaForm.resources
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.Ödeme_Form.resources
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.csproj.GenerateResource.Cache
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.exe
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.pdb
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Hürkus.exe.config
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Hürkus.exe
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Hürkus.pdb
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\BAL.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\BEL.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\EntityFramework.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\DAL.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\BAL.pdb
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\BAL.dll.config
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\BEL.pdb
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\BEL.dll.config
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\EntityFramework.xml
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\DAL.pdb
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\DAL.dll.config
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.PersonelGüncellemeForm.resources
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\EnvDTE.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\stdole.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\EnvDTE80.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\VSLangProj.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\VSLangProj80.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\VSLangProj2.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.csproj.Hürkus.exe.config
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.RaporlamaForm.resources
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Hürkus.exe.config
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Hürkus.exe
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Hürkus.pdb
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\BAL.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\BEL.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\EntityFramework.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\DAL.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\EnvDTE.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\stdole.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\EnvDTE80.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\VSLangProj.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\VSLangProj80.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.MSXML.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\VSLangProj2.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\BAL.pdb
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\BAL.dll.config
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\BEL.pdb
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\BEL.dll.config
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\EntityFramework.xml
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\DAL.pdb
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\DAL.dll.config
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\tr\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\bin\Debug\tr\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.csprojResolveAssemblyReference.cache
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.csproj.Hürkus.exe.config
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.Bilet_Al_Form.resources
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.Check_in_Form.resources
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.PersonelGirisForm.resources
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.PersonelGüncellemeForm.resources
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.Properties.Resources.resources
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.RaporlamaForm.resources
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.Ucus_Durum_Form.resources
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.YetkiliPersonelForm.resources
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.Ödeme_AnaForm.resources
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.Ödeme_Form.resources
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.csproj.GenerateResource.Cache
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.csproj.CoreCompileInputs.cache
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.exe
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\Hürkus\obj\Debug\Hürkus.pdb

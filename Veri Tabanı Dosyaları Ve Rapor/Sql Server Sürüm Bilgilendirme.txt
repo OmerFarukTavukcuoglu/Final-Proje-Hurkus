@@ -1,0 +1,2 @@
+Bilgilendirme: Çalýþtýðým veritabanýn'da sql server sürümü 14. sürüm.Ona uygun 
+program ayarlamanýzý yapmanýz gerekir.Backup sorun çýkartabilir diye belirtmek istedim.

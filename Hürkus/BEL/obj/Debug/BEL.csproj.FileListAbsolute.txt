@@ -1,0 +1,54 @@
+C:\Users\Omar\source\repos\Hürkus\BEL\bin\Debug\BEL.dll.config
+C:\Users\Omar\source\repos\Hürkus\BEL\bin\Debug\BEL.dll
+C:\Users\Omar\source\repos\Hürkus\BEL\bin\Debug\BEL.pdb
+C:\Users\Omar\source\repos\Hürkus\BEL\bin\Debug\EntityFramework.dll
+C:\Users\Omar\source\repos\Hürkus\BEL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Omar\source\repos\Hürkus\BEL\bin\Debug\EntityFramework.xml
+C:\Users\Omar\source\repos\Hürkus\BEL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Omar\source\repos\Hürkus\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Hürkus\BEL\obj\Debug\BEL.dll
+C:\Users\Omar\source\repos\Hürkus\BEL\obj\Debug\BEL.pdb
+C:\Users\Omar\source\repos\Hürkus\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BEL\bin\Debug\BEL.dll.config
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BEL\bin\Debug\BEL.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BEL\bin\Debug\BEL.pdb
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BEL\bin\Debug\EntityFramework.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BEL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BEL\bin\Debug\EntityFramework.xml
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BEL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BEL\obj\Debug\BEL.dll
+C:\Users\uars9\OneDrive\Masaüstü\Yeni klasör\Hürkus\BEL\obj\Debug\BEL.pdb
+C:\Hürkus\BEL\bin\Debug\BEL.dll.config
+C:\Hürkus\BEL\bin\Debug\BEL.dll
+C:\Hürkus\BEL\bin\Debug\BEL.pdb
+C:\Hürkus\BEL\bin\Debug\EntityFramework.dll
+C:\Hürkus\BEL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Hürkus\BEL\bin\Debug\EntityFramework.xml
+C:\Hürkus\BEL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Hürkus\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Hürkus\BEL\obj\Debug\BEL.dll
+C:\Hürkus\BEL\obj\Debug\BEL.pdb
+C:\Hürkus\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\BEL.dll.config
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\BEL.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\BEL.pdb
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\EntityFramework.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\EntityFramework.xml
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BEL\obj\Debug\BEL.dll
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BEL\obj\Debug\BEL.pdb
+C:\Users\Omar\Desktop\Final Proje-Hurkus\Hürkus\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\BEL.dll.config
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\BEL.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\BEL.pdb
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\EntityFramework.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\EntityFramework.xml
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BEL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BEL\obj\Debug\BEL.dll
+C:\Users\omara\Desktop\Final Proje-Hurkus\Hürkus\BEL\obj\Debug\BEL.pdb

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="havayoluBilgiStoreContainer" CdmEntityContainer="havayoluEntities">
+    <EntitySetMapping Name="FiloBilgileris">
+      <EntityTypeMapping TypeName="havayoluBilgi.FiloBilgileri">
+        <MappingFragment StoreEntitySet="FiloBilgileri">
+          <ScalarProperty Name="UçakID" ColumnName="UçakID" />
+          <ScalarProperty Name="UçakModeli" ColumnName="UçakModeli" />
+          <ScalarProperty Name="UçakAdedi" ColumnName="UçakAdedi" />
+          <ScalarProperty Name="YolcuKapasitesi" ColumnName="YolcuKapasitesi" />
+          <ScalarProperty Name="GövdeUzunluğu" ColumnName="GövdeUzunluğu" />
+          <ScalarProperty Name="YerdenYüksekliği" ColumnName="YerdenYüksekliği" />
+          <ScalarProperty Name="KanatAçıklığı" ColumnName="KanatAçıklığı" />
+          <ScalarProperty Name="AzamiKalkışAğırlığı" ColumnName="AzamiKalkışAğırlığı" />
+          <ScalarProperty Name="AzamiKargoKapasitesi" ColumnName="AzamiKargoKapasitesi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="musterilers">
+      <EntityTypeMapping TypeName="havayoluBilgi.musteriler">
+        <MappingFragment StoreEntitySet="musteriler">
+          <ScalarProperty Name="MüşteriID" ColumnName="MüşteriID" />
+          <ScalarProperty Name="MüşteriAd" ColumnName="MüşteriAd" />
+          <ScalarProperty Name="MüşteriSoyad" ColumnName="MüşteriSoyad" />
+          <ScalarProperty Name="MüşteriTC" ColumnName="MüşteriTC" />
+          <ScalarProperty Name="MüşteriTel" ColumnName="MüşteriTel" />
+          <ScalarProperty Name="MüşteriAdres" ColumnName="MüşteriAdres" />
+          <ScalarProperty Name="MüşteriMail" ColumnName="MüşteriMail" />
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MusteriUcakSeyehatBilgileris">
+      <EntityTypeMapping TypeName="havayoluBilgi.MusteriUcakSeyehatBilgileri">
+        <MappingFragment StoreEntitySet="MusteriUcakSeyehatBilgileri">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+          <ScalarProperty Name="UcakID" ColumnName="UcakID" />
+          <ScalarProperty Name="SeyahatID" ColumnName="SeyahatID" />
+          <ScalarProperty Name="GidişTarih" ColumnName="GidişTarih" />
+          <ScalarProperty Name="DönüşTarih" ColumnName="DönüşTarih" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personellers">
+      <EntityTypeMapping TypeName="havayoluBilgi.Personeller">
+        <MappingFragment StoreEntitySet="Personeller">
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="PersonelAd" ColumnName="PersonelAd" />
+          <ScalarProperty Name="PersonelSoyad" ColumnName="PersonelSoyad" />
+          <ScalarProperty Name="PersonelTC" ColumnName="PersonelTC" />
+          <ScalarProperty Name="PersonelTel" ColumnName="PersonelTel" />
+          <ScalarProperty Name="PersonelMail" ColumnName="PersonelMail" />
+          <ScalarProperty Name="PersonelSifre" ColumnName="PersonelSifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SeyehatBilgileris">
+      <EntityTypeMapping TypeName="havayoluBilgi.SeyehatBilgileri">
+        <MappingFragment StoreEntitySet="SeyehatBilgileri">
+          <ScalarProperty Name="SeyehatID" ColumnName="SeyehatID" />
+          <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+          <ScalarProperty Name="MüşteriSoyad" ColumnName="MüşteriSoyad" />
+          <ScalarProperty Name="UçakNo" ColumnName="UçakNo" />
+          <ScalarProperty Name="BiletKodu" ColumnName="BiletKodu" />
+          <ScalarProperty Name="KalkışYeri" ColumnName="KalkışYeri" />
+          <ScalarProperty Name="VarışYeri" ColumnName="VarışYeri" />
+          <ScalarProperty Name="KalkışSaati" ColumnName="KalkışSaati" />
+          <ScalarProperty Name="VarışSaati" ColumnName="VarışSaati" />
+          <ScalarProperty Name="KişiSayısı" ColumnName="KişiSayısı" />
+          <ScalarProperty Name="GidişTarihi" ColumnName="GidişTarihi" />
+          <ScalarProperty Name="DönüşTarihi" ColumnName="DönüşTarihi" />
+          <ScalarProperty Name="Sınıf" ColumnName="Sınıf" />
+          <ScalarProperty Name="KoltukNo" ColumnName="KoltukNo" />
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
